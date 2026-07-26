@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in Economics at the University of Wisconsin–Madison. My research interests are in monetary economics, international macroeconomics, macroeconomic forecasting, and time series econometrics.
 
-Before joining UW–Madison, I worked as a Senior Economist at the Central Bank of Chile. My work focused on macroeconomic forecasting, monetary policy analysis, DSGE models, inflation forecasting, and applied macroeconomic research.
+Before joining UW–Madison, I worked as a Senior Analyst at the Central Bank of Chile. My work focused on macroeconomic forecasting, monetary policy analysis, DSGE models, inflation forecasting, and applied macroeconomic research.
 
 I hold a Master's degree in Economic Analysis and degrees in Economics and Business from the University of Chile.
 
