@@ -13,7 +13,7 @@ site_theme: "default"
 title: "Carlos Molina"
 title_separator: "-"
 name: &name "Carlos Molina"
-description: &description "Incoming PhD Student in Economics at the University of Wisconsin–Madison"
+description: &description "PhD Student in Economics at the University of Wisconsin–Madison"
 url: "https://cmolinas5.github.io"
 baseurl: ""
 repository: "cmolinas5/cmolinas5.github.io"
@@ -30,7 +30,7 @@ author:
   location: "Madison, Wisconsin"
   employer: "University of Wisconsin–Madison"
   uri:
-  email: "cmolinas@fen.uchile.cl"
+  email: "cmolina4@wisc.edu"
 
   # Academic websites
   academia         : # URL
