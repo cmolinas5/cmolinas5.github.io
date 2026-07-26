@@ -13,7 +13,7 @@ My research interests are in monetary economics, international macroeconomics, a
 
 Before joining UW–Madison, I worked as a Senior Economist at the Central Bank of Chile, where I contributed to macroeconomic forecasting, monetary policy analysis, DSGE modeling, inflation forecasting, and empirical research.
 
-I hold a Master's degree in Economic Analysis and a degree in Economics from the University of Chile.
+I hold a Master’s degree in Economic Analysis and a degree in Economics from the University of Chile.
 
 ## Research Interests
 
