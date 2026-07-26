@@ -7,12 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+# Basic Site Settings
+locale: "en-US"
+site_theme: "default"
 title: "Carlos Molina"
+title_separator: "-"
 name: &name "Carlos Molina"
-description: &description "PhD Student in Economics at the University of Wisconsin–Madison"
+description: &description "Incoming PhD Student in Economics at the University of Wisconsin–Madison"
 url: "https://cmolinas5.github.io"
+baseurl: ""
 repository: "cmolinas5/cmolinas5.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -20,12 +23,14 @@ repository: "cmolinas5/cmolinas5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
- avatar: "profile.jpg"
-name: "Carlos Molina"
-bio: "PhD Student in Economics"
-location: "Madison, Wisconsin, USA"
-employer: "University of Wisconsin-Madison"
-email: "cmolinas@fen.uchile.cl" 
+  avatar: "profile.jpg"
+  name: "Carlos Molina"
+  pronouns:
+  bio: "PhD Student, Department of Economics"
+  location: "Madison, Wisconsin"
+  employer: "University of Wisconsin–Madison"
+  uri:
+  email: "cmolinas@fen.uchile.cl"
 
   # Academic websites
   academia         : # URL
