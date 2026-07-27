@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/banner2.jpeg"
+     alt="Santiago and the Andes"
+     style="width:100%;
+            height:380px;
+            object-fit:cover;
+            border-radius:8px;
+            margin-bottom:30px;">
+
 I am a PhD student in Economics at the University of Wisconsin–Madison. My research interests are in monetary economics, international macroeconomics, macroeconomic forecasting, and time series econometrics.
 
 Before joining UW–Madison, I worked as a Senior Analyst at the Central Bank of Chile. My work focused on macroeconomic forecasting, monetary policy analysis, DSGE models, inflation forecasting, and applied macroeconomic research.
